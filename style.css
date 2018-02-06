@@ -81,3 +81,10 @@ button:hover {
     background: yellow;
 }
 
+/* FOOTER */
+
+footer {
+    clear: both;
+    background: #444;
+    height: 150px;
+}
