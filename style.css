@@ -47,5 +47,37 @@ main ul li:last-child {
     margin-right: 0px;
 }
 
+/* MAIN - FEATURED SECTION */
 
+section img {
+    float: left;
+}
+
+section div {
+    width: calc(50%-30px);
+    float: left;
+    padding-left: 30px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+button {
+    border: none;
+    padding: 10px 30px;
+    background: #000;
+    color: #fff;
+    border-radius: 3px;
+    font-size: 18px;
+    margin-top: 10px;
+    transition: 350ms;
+    cursor: pointer;
+}
+
+button:hover {
+    background: yellow;
+}
 
